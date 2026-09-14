@@ -3,7 +3,7 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to the git-wiki demo of Arenion!
+# Welcome to the git-wiki demo of Arenion for the Master of Data Science of Centrale Lille!
 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
 
